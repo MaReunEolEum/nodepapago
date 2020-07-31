@@ -1,0 +1,25 @@
+{
+  "name": "nodepapago",
+  "version": "1.0.0",
+  "description": "Papago translator(Unofficial)",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name": "PinMilk",
+    "email": "hanbyeul04@kakao.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^14.0.27",
+    "axios": "^0.19.2"
+  },
+  "keywords": [
+    "papago",
+    "translator",
+    "node"
+  ],
+  "bugs": {
+    "email": "hanbyeul04@kakao.com"
+  }
+}

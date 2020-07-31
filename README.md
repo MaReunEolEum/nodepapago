@@ -2,6 +2,12 @@
 
 Note: It can stop working anytime.
 
+## Install
+
+```
+npm install nodepapago
+```
+
 ## Example
 
 ```typescript

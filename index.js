@@ -1,3 +1,1 @@
-const Translator = require("./src/translator");
-
-exports = module.exports = Translator;
+exports = module.exports = require("./src/translator");

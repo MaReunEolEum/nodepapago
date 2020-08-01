@@ -50,6 +50,8 @@ var axios_1 = require("axios");
  * @param {String} target - Target language code(result)
  * @param {Array} content - The array includes texts to be translated.
  *
+ * @returns {Array} Translated result array
+ *
  * @example
  * (async () => console.log(await new Translator().translate('en', 'ko', 'Hi.')))();
  * (async () => console.log(await new Translator().multiTranslate('en', 'ko', ['apple', 'banana', 'orange', 'computer', 'laptop', 'cellphone', 'school', 'promise'])))();

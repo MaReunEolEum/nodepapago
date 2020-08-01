@@ -1,6 +1,6 @@
 {
   "name": "nodepapago",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Papago translator(Unofficial)",
   "main": "index.js",
   "scripts": {},

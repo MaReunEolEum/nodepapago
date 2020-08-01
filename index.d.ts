@@ -1,1 +1,3 @@
-export * from "./src/translator";
+import Translator from "./src/translator";
+
+export default Translator;

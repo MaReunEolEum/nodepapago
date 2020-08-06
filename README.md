@@ -8,6 +8,14 @@ Note: It can stop working anytime.
 npm install nodepapago
 ```
 
+## Github
+
+https://github.com/PinMIlk/nodepapago
+
+## npm
+
+https://www.npmjs.com/package/nodepapago
+
 ## Example
 
 ### Single

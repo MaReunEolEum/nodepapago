@@ -1,13 +1,10 @@
 {
   "name": "nodepapago",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Papago translator(Unofficial)",
   "main": "index.js",
   "scripts": {},
-  "author": {
-    "name": "PinMilk",
-    "email": "hanbyeul04@kakao.com"
-  },
+  "author": "PinMilk <hanbyeul04@kakao.com>",
   "license": "MIT",
   "dependencies": {
     "@types/axios": "^0.14.0",
@@ -21,5 +18,14 @@
   ],
   "bugs": {
     "email": "hanbyeul04@kakao.com"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinMIlk/nodepapago.git"
+  },
+  "homepage": "https://github.com/PinMIlk/nodepapago#readme"
 }

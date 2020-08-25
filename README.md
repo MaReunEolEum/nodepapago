@@ -51,4 +51,5 @@ const Translator = require("nodepapago").default;
 It is following MIT License.
 
 ## References
-Beomi([pypapago](https://github.com/Beomi/pypapago))
+Beomi([pypapago](https://github.com/Beomi/pypapago)) - All functions
+2020DevelopingKakaotalkBot(delta)([papago-kakao-bot](https://github.com/2020DevelopingKakaotalkBot/papago-kakao-bot)) - generateKey

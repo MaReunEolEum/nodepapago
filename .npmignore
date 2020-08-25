@@ -1,3 +1,5 @@
 tsconfig.json
 node_modules/
 examples/
+test.js
+test.ts

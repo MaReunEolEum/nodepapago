@@ -18,7 +18,7 @@ https://www.npmjs.com/package/nodepapago
 
 ## Example
 
-### Single
+### General
 
 ```typescript
 import Translator from "nodepapago";
@@ -51,6 +51,7 @@ const Translator = require("nodepapago").default;
 It is following MIT License.
 
 ## References
-Beomi([pypapago](https://github.com/Beomi/pypapago)) - All functions
-
-2020DevelopingKakaotalkBot(delta)([papago-kakao-bot](https://github.com/2020DevelopingKakaotalkBot/papago-kakao-bot)) - generateKey
+### All of this
+Beomi([pypapago](https://github.com/Beomi/pypapago))
+### genUUID
+2020DevelopingKakaotalkBot(delta)([papago-kakao-bot](https://github.com/2020DevelopingKakaotalkBot/papago-kakao-bot))

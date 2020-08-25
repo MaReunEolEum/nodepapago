@@ -40,12 +40,6 @@ export default class Translator {
         return uuid;
     }
 
-    // private setCookie(coockieObj: any) {
-    //     let result: string[] = [];
-    //     for (let property in coockieObj) result.push(`${property}=${coockieObj[property]}`);
-    //     return result.join('; ');
-    // }
-
     private toFormData(formObj: any): string {
         let result: string[] = [];
         for (let property in formObj) result.push(`${property}=${formObj[property]}`);
@@ -58,7 +52,7 @@ export default class Translator {
         const uuid: string = this.genUUID(time);
 
         const data: string = this.toFormData({
-            'deviceId': uuid, //'4c9a04d7-cb7f-47a5-a731-093ba2b77535',
+            'deviceId': uuid,
             'locale': 'en',
             'dict': true,
             'dictDisplay': 30,

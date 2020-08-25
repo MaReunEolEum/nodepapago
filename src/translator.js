@@ -80,11 +80,6 @@ var Translator = /** @class */ (function () {
         });
         return uuid;
     };
-    // private setCookie(coockieObj: any) {
-    //     let result: string[] = [];
-    //     for (let property in coockieObj) result.push(`${property}=${coockieObj[property]}`);
-    //     return result.join('; ');
-    // }
     Translator.prototype.toFormData = function (formObj) {
         var result = [];
         for (var property in formObj)
